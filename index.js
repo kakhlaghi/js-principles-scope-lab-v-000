@@ -15,6 +15,6 @@ function overwriteBestCustomer() {
 
 const leastFavoriteCustomer = 'soup'
 
-function leastFavoriteCustomer() {
+function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'not soup'
 }
